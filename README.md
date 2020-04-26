@@ -7,7 +7,7 @@ Options:
 3. Slider Dots that change slider image on click
 4. Responsive Design
 
-- This is initial version, in the next versions I will add a options objects pattern for passing arguments into a functions, mobile touch/swipe support and change semantic to BEM methodology. 
+- This is initial version, in the next versions I will add a options object pattern for passing arguments into a functions, mobile touch/swipe support and change semantic to BEM methodology. 
 
 
 If you like it, support me on Patreon! Thanks in advance. https://www.patreon.com/shtalma 
